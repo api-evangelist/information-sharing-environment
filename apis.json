@@ -1,0 +1,40 @@
+{
+    "name": "Information Sharing Environment",
+    "description": "<p><span>ISE.gov uses the Drupal Content API Module to make its documents and other content available to the public. As an agency responsible for developing and promoting information sharing, we are committed to supporting open data initiatives whenever secure and practical. The Content API module makes our content accessible to any application or platform, while leveraging Drupal&rsquo;s strengths as a content management system. Easily publishing content to multiple applications and devices promotes transparency and accessibility.<\/span><\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/ise-logo.png",
+    "tags": [
+        "agencies",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/information-sharing-environment\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Information Sharing Environment",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/ise-logo.png",
+            "humanURL": "http:\/\/ise.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/information-sharing-environment-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "http:\/\/ise.gov\/developers"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/ise.gov"
+        }
+    ]
+}
